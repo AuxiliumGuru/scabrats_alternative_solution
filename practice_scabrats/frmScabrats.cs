@@ -76,17 +76,7 @@ namespace practice_scabrats
 
             lblTotal.Text = "Total: " + currTotal;
             
-            
-            
-            
-            totalCream = 0;
-            totalSalted = 0;
-            totalVanilla = 0;
-            totalBurnt = 0;
-            totalHot = 0;
-            totalIced = 0;
-            totalGreen = 0;
-            totalJava = 0;
+
         }
 
 
